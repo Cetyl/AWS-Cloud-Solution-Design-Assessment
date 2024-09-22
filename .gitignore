@@ -1,9 +1,0 @@
-# Ignore the chessu directory
-chessu/
-
-# Ignore other common files
-*.log
-*.tmp
-*.DS_Store
-node_modules/
-
