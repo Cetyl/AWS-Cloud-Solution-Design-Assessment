@@ -1,3 +1,0 @@
-[submodule "chess-app"]
-	path = chess-app
-	url = https://github.com/dotnize/chessu.git
